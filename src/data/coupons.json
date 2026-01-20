@@ -1,0 +1,112 @@
+[
+  {
+    "id": "welcome10",
+    "title": "初回限定 10% OFF",
+    "description": "初めての注文でドリンク・フードが10%オフになります。",
+    "code": "WELCOME10",
+    "icon": "🎉",
+    "discount": "10% OFF",
+    "expires": "2025-12-31",
+    "conditions": "初回注文のみ。1会計1回まで。"
+  },
+  {
+    "id": "weekday150",
+    "title": "平日ランチ 150円引き",
+    "description": "平日11:00-14:00の注文が150円引き。",
+    "code": "LUNCH150",
+    "icon": "🥪",
+    "discount": "¥150 OFF",
+    "expires": "2025-11-30",
+    "conditions": "平日限定。合計¥800以上。"
+  },
+  {
+    "id": "night200",
+    "title": "夜カフェ 200円引き",
+    "description": "18:00以降のドリンク注文で200円引き。",
+    "code": "NIGHT200",
+    "icon": "🌙",
+    "discount": "¥200 OFF",
+    "expires": "2025-10-31",
+    "conditions": "18:00以降限定。ドリンクのみ対象。"
+  },
+  {
+    "id": "gift300",
+    "title": "ギフトボックス 300円引き",
+    "description": "ギフトカテゴリの商品が300円オフ。",
+    "code": "GIFT300",
+    "icon": "🎁",
+    "discount": "¥300 OFF",
+    "expires": "2025-09-30",
+    "conditions": "ギフトカテゴリのみ対象。"
+  },
+  {
+    "id": "pair250",
+    "title": "2点購入 250円引き",
+    "description": "2点以上の購入で250円引き。",
+    "code": "PAIR250",
+    "icon": "🧾",
+    "discount": "¥250 OFF",
+    "expires": "2025-08-31",
+    "conditions": "2点以上購入時のみ。"
+  },
+  {
+    "id": "morning120",
+    "title": "モーニング 120円引き",
+    "description": "7:00-10:00の注文が120円引き。",
+    "code": "MORNING120",
+    "icon": "☀️",
+    "discount": "¥120 OFF",
+    "expires": "2025-07-31",
+    "conditions": "朝10時まで限定。"
+  },
+  {
+    "id": "weekend5",
+    "title": "週末 5% OFF",
+    "description": "土日限定で全商品5%オフ。",
+    "code": "WEEKEND5",
+    "icon": "🗓️",
+    "discount": "5% OFF",
+    "expires": "2025-12-31",
+    "conditions": "土日限定。"
+  },
+  {
+    "id": "member200",
+    "title": "メンバー限定 200円引き",
+    "description": "会員アカウントでログイン時に200円引き。",
+    "code": "MEMBER200",
+    "icon": "⭐️",
+    "discount": "¥200 OFF",
+    "expires": "2025-06-30",
+    "conditions": "会員ログインが必要。"
+  },
+  {
+    "id": "latte100",
+    "title": "ラテ 100円引き",
+    "description": "ラテ系ドリンクが100円引き。",
+    "code": "LATTE100",
+    "icon": "☕️",
+    "discount": "¥100 OFF",
+    "expires": "2025-05-31",
+    "conditions": "ラテ系のみ対象。"
+  },
+  {
+    "id": "toast80",
+    "title": "トースト 80円引き",
+    "description": "トースト系フードが80円引き。",
+    "code": "TOAST80",
+    "icon": "🍞",
+    "discount": "¥80 OFF",
+    "expires": "2025-04-30",
+    "conditions": "トースト系のみ対象。"
+  },
+  {
+    "id": "birthday300",
+    "title": "バースデー 300円引き",
+    "description": "誕生日月に使える300円引きクーポン。",
+    "code": "BDAY300",
+    "icon": "🎂",
+    "discount": "¥300 OFF",
+    "expires": "2025-12-31",
+    "conditions": "誕生日月のみ有効。"
+  }
+]
