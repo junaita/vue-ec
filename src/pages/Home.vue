@@ -5,7 +5,7 @@
         <p class="eyebrow">Seasonal Drop</p>
         <h1>Fresh Brew Market</h1>
         <p class="hero-copy">
-          こだわりのクラフトドリンクとフードを、あなたの毎日に。限定ブレンドが今週登場。
+          こだわりのクラフトドリンクとフードを、あなたの毎日に。限定ブレンドが今週登場
         </p>
         <div class="hero-actions">
           <router-link to="/menu" class="button button--primary">メニューを見る</router-link>
