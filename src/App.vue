@@ -4,6 +4,7 @@
       <router-link to="/" class="logo">Fresh Brew Market</router-link>
       <nav class="site-nav">
         <router-link to="/menu">メニュー</router-link>
+        <router-link to="/coupons">クーポン</router-link>
         <router-link to="/news">ニュース</router-link>
         <router-link to="/about">ブランド</router-link>
         <router-link to="/cart" class="cart-link">
@@ -23,6 +24,7 @@
         <p>Tokyo / Online Store</p>
       </div>
       <div class="footer-links">
+        <router-link to="/coupons">クーポン</router-link>
         <router-link to="/news">キャンペーン</router-link>
         <router-link to="/about">ブランド紹介</router-link>
         <router-link to="/menu">メニュー</router-link>

@@ -39,6 +39,10 @@
           <h3>ギフト</h3>
           <p>贈り物に映えるパッケージ</p>
         </router-link>
+        <router-link to="/coupons" class="category-card">
+          <h3>クーポン</h3>
+          <p>期間限定の割引コードをチェック</p>
+        </router-link>
       </div>
     </section>
 
