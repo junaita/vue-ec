@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#fff1f4"/>
+  <circle cx="320" cy="210" r="120" fill="#d94b6a"/>
+  <rect x="210" y="290" width="220" height="120" rx="30" fill="#7b1d35"/>
+  <text x="320" y="430" text-anchor="middle" font-size="28" font-family="Arial" fill="#5b0e25">Berry Toast</text>
+</svg>

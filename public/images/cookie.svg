@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#f7efe3"/>
+  <rect x="170" y="120" width="300" height="220" rx="40" fill="#d9a96b"/>
+  <circle cx="250" cy="210" r="14" fill="#8b5a2b"/>
+  <circle cx="330" cy="190" r="14" fill="#8b5a2b"/>
+  <circle cx="380" cy="240" r="14" fill="#8b5a2b"/>
+  <text x="320" y="430" text-anchor="middle" font-size="28" font-family="Arial" fill="#6c3f1c">Cookie Box</text>
+</svg>

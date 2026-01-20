@@ -1,0 +1,50 @@
+[
+  {
+    "id": "latte",
+    "name": "Salted Caramel Latte",
+    "price": 640,
+    "description": "ほろ苦いエスプレッソに塩キャラメルとミルクを重ねた人気ブレンド。",
+    "category": "ドリンク",
+    "image": "/images/latte.svg"
+  },
+  {
+    "id": "matcha",
+    "name": "Matcha Cloud",
+    "price": 620,
+    "description": "宇治抹茶とふわふわミルクフォームで仕上げた和モダン。",
+    "category": "ドリンク",
+    "image": "/images/matcha.svg"
+  },
+  {
+    "id": "berry",
+    "name": "Berry Toast",
+    "price": 560,
+    "description": "ベリーとリコッタの甘酸っぱいトースト。朝食におすすめ。",
+    "category": "フード",
+    "image": "/images/berry.svg"
+  },
+  {
+    "id": "avocado",
+    "name": "Avocado Crunch",
+    "price": 680,
+    "description": "アボカドとスパイス、シードのざくざく食感。",
+    "category": "フード",
+    "image": "/images/avocado.svg"
+  },
+  {
+    "id": "cocoa",
+    "name": "Cocoa Noir",
+    "price": 590,
+    "description": "ビターなココアにシトラス香を添えた大人の甘さ。",
+    "category": "ドリンク",
+    "image": "/images/cocoa.svg"
+  },
+  {
+    "id": "cookie",
+    "name": "Almond Cookie Box",
+    "price": 740,
+    "description": "アーモンド香るクッキーを詰め合わせたギフトセット。",
+    "category": "ギフト",
+    "image": "/images/cookie.svg"
+  }
+]

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#f6efe7"/>
+  <circle cx="320" cy="210" r="120" fill="#cda07d"/>
+  <rect x="210" y="290" width="220" height="120" rx="30" fill="#8b5e3c"/>
+  <text x="320" y="430" text-anchor="middle" font-size="28" font-family="Arial" fill="#4c2f1f">Salted Latte</text>
+</svg>

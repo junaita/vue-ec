@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#eef6e8"/>
+  <circle cx="320" cy="210" r="120" fill="#7ac36a"/>
+  <circle cx="320" cy="210" r="44" fill="#4b3b2a"/>
+  <text x="320" y="430" text-anchor="middle" font-size="28" font-family="Arial" fill="#2b4a1b">Avocado Crunch</text>
+</svg>
